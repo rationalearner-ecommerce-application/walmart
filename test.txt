@@ -1,3 +1,3 @@
-Hello Its just test.txt
+the 1st line deleted
 
 the 2nd line added
