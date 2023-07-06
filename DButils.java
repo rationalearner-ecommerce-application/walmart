@@ -16,3 +16,5 @@ pull testingi
 hello1
 
 change in  DBUtills in stage branch for PULLREQUEST to master in remote repo
+
+code updating from remote repo for --> fetch and merge in local repo
